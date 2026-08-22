@@ -3,4 +3,3 @@ class Teacher:
         self.teacher_id = teacher_id
         self.name = name
         self.subject_taught = subject_taught
-        

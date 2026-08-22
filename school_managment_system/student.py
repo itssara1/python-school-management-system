@@ -1,7 +1,7 @@
 class Student:
     def __init__(self, name, age, student_id):
         if not name.strip():
-           raise ValueError("Name cannot be empty")
+            raise ValueError("Name cannot be empty")
         elif not name.isalpha():
             raise ValueError("Name Must contain leeters only")
 
@@ -9,7 +9,7 @@ class Student:
 
         if not 0 < age:
             raise ValueError("Age must be greater than 0")
-        
+
         self.age = age
 
         self.student_id = student_id

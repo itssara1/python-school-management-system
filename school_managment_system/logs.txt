@@ -1,0 +1,11 @@
+Duplicate student ID
+invalid literal for int() with base 10: 'hello'
+Course not found
+Student not found
+Student already enrolled in this course
+Student is not enrolled in this course
+students.json not found
+students.json is corrupted
+Duplicate student ID
+invalid literal for int() with base 10: ''
+Teacher not found
